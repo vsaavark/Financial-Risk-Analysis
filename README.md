@@ -6,11 +6,12 @@ This project aims to analyze the financial performance and risk associated with 
 ABC company plans to buy shares in Apple and the S&P 500 index with a target of optimizing profit within two years. The company seeks to understand how these investments have performed over the past three years and assess the associated risks.
 
 # Tools and Libraries Used
-pandas: For data manipulation
-yfinance: For fetching historical stock prices
-matplotlib: For data visualization
-numpy: For mathematical operations
-pyfolio: For performance analysis
+pandas: For data manipulation,
+yfinance: For fetching historical stock prices,
+matplotlib: For data visualization,
+numpy: For mathematical operations,
+pyfolio: For performance analysis,
+
 Installation
 To install the necessary libraries, you can use pip:
 
