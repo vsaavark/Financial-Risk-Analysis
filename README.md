@@ -15,8 +15,8 @@ pyfolio: For performance analysis,
 Installation
 To install the necessary libraries, you can use pip:
 
-# Copy code
 pip install pandas yfinance matplotlib numpy pyfolio
+
 # Data Fetching
 We use the yfinance library to download historical stock prices for Apple and the S&P 500 index from January 1, 2020, to December 31, 2023.
 
